@@ -120,14 +120,16 @@ https://github.com/devanmanigoli/DSA-java
 
 ## 📊 GitHub Analytics
 
-<img src="YOUR_ACTIVITY_CARD_HERE">
+<div align="center">
 
-<br><br>
+## 🔥 GitHub Streak
 
-<img src="YOUR_CONTRIBUTION_GRAPH_HERE">
+<img
+  src="https://streak-stats.demolab.com/?user=devanmanigoli&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub Streak"
+/>
 
 </div>
-
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 

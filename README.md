@@ -133,7 +133,6 @@ https://github.com/devanmanigoli/DSA-java
 </p>
 
 ---
-
 <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
@@ -151,105 +150,46 @@ https://github.com/devanmanigoli/DSA-java
 
 <br>
 
-<!-- Contribution Timeline -->
+<h3 align="center">🚀 MY CODING JOURNEY</h3>
 
 <table align="center">
   <tr>
-    <td align="center"><b>SEP</b></td>
-    <td align="center"><b>OCT</b></td>
-    <td align="center"><b>NOV</b></td>
-    <td align="center"><b>DEC</b></td>
-    <td align="center"><b>JAN</b></td>
-    <td align="center"><b>FEB</b></td>
-    <td align="center"><b>MAR</b></td>
-    <td align="center"><b>APR</b></td>
-    <td align="center"><b>MAY</b></td>
-    <td align="center"><b>JUN</b></td>
-    <td align="center"><b>JUL</b></td>
-    <td align="center"><b>AUG</b></td>
+    <th>📅 MONTH</th>
+    <th>🎯 FOCUS</th>
+    <th>⚡ MISSION</th>
   </tr>
-
   <tr>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
-    <td>🟩</td>
+    <td align="center"><b>SEP</b></td>
+    <td>🧠 DSA</td>
+    <td>Build Problem-Solving Foundation</td>
+  </tr>
+  <tr>
+    <td align="center"><b>OCT</b></td>
+    <td>☕ Java</td>
+    <td>Strengthen Core Java</td>
+  </tr>
+  <tr>
+    <td align="center"><b>NOV</b></td>
+    <td>⚙️ Spring Boot</td>
+    <td>Build Backend Projects</td>
+  </tr>
+  <tr>
+    <td align="center"><b>DEC</b></td>
+    <td>🌐 Full Stack</td>
+    <td>Connect Frontend + Backend</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2027 →</b></td>
+    <td>🚀 Internship</td>
+    <td>Turn Skills Into Opportunities</td>
   </tr>
 </table>
 
-<p align="center">
-  <b>📅 12-Month Coding Timeline</b>
-</p>
-
-<p align="center">
-  <sub>
-    🟩 Low Activity &nbsp;&nbsp; • &nbsp;&nbsp;
-    🟩 Growing Consistency &nbsp;&nbsp; • &nbsp;&nbsp;
-    🟩 High Activity
-  </sub>
-</p>
-
-<br>
-
-<div align="center">
-
-### 📊 2026 • Coding Activity
-
-| 🗓️ Period | 🎯 Focus |
-|:---:|:---:|
-| **SEP → DEC** | DSA • Java • Problem Solving |
-| **JAN → APR** | Spring Boot • Projects • GitHub |
-| **MAY → AUG** | Full-Stack • Open Source • Internship |
-
-</div>
-
 <br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/2026-CODING%20JOURNEY-00d9ff?style=for-the-badge&logo=github&logoColor=white" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/CONSISTENCY-OVER%20PERFECTION-a855f7?style=for-the-badge&logo=target&logoColor=white" />
-
+  <b>🔥 Learn → Build → Solve → Improve → Repeat</b>
 </p>
-
-### 📊 2026 • Coding Activity
-
-| 🗓️ Period | 🎯 Focus |
-|:---:|:---:|
-| **2026** | DSA • Java • Projects |
-| **Current** | Consistency & Problem Solving |
-| **Goal** | Internship Ready 🚀 |
-
-</div>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🟩%20CONTRIBUTIONS-TRACKING-00d9ff?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/🐍%20SNAKE-EATING%20MY%20COMMITS-a855f7?style=for-the-badge" />
-
-</p>
-
-<p align="center">
-  <sub>
-    📈 Contribution graph • 📅 Last 12 months • 🚀 Continuous learning
-  </sub>
-</p>
-
-> 🐍 Every contribution represents another step in my development journey.
 
 ---
 

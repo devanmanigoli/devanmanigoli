@@ -132,11 +132,10 @@ https://github.com/devanmanigoli/DSA-java
   <img src="https://github-profile-trophy.vercel.app/?username=devanmanigoli&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
----
 <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <i>One commit at a time. One problem at a time. One step closer.</i>
+  <i>Feeding the snake with code, one contribution at a time...</i>
 </p>
 
 <br>
@@ -144,51 +143,60 @@ https://github.com/devanmanigoli/DSA-java
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg"
-    alt="Devanmani GitHub Contribution Snake"
+    alt="GitHub Contribution Snake"
   />
+</p>
+
+<p align="center">
+  <b>🐍 Feed the Snake • Keep Coding • Keep Growing 🚀</b>
 </p>
 
 <br>
 
-<h3 align="center">🚀 MY CODING JOURNEY</h3>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <th>📅 MONTH</th>
-    <th>🎯 FOCUS</th>
-    <th>⚡ MISSION</th>
-  </tr>
-  <tr>
-    <td align="center"><b>SEP</b></td>
-    <td>🧠 DSA</td>
-    <td>Build Problem-Solving Foundation</td>
-  </tr>
-  <tr>
-    <td align="center"><b>OCT</b></td>
-    <td>☕ Java</td>
-    <td>Strengthen Core Java</td>
-  </tr>
-  <tr>
-    <td align="center"><b>NOV</b></td>
-    <td>⚙️ Spring Boot</td>
-    <td>Build Backend Projects</td>
-  </tr>
-  <tr>
-    <td align="center"><b>DEC</b></td>
-    <td>🌐 Full Stack</td>
-    <td>Connect Frontend + Backend</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2027 →</b></td>
-    <td>🚀 Internship</td>
-    <td>Turn Skills Into Opportunities</td>
-  </tr>
+### 📊 Contribution Intensity
+
+<table>
+<tr>
+<td align="center">⬛<br><sub>No Activity</sub></td>
+<td align="center">🟩<br><sub>Low</sub></td>
+<td align="center">🟢<br><sub>Medium</sub></td>
+<td align="center">💚<br><sub>High</sub></td>
+<td align="center">💚✨<br><sub>Very High</sub></td>
+</tr>
 </table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 📅 | 🎯 Focus |
+|:---:|:---|
+| 🧠 | **DSA & Problem Solving** |
+| ☕ | **Java Development** |
+| ⚙️ | **Spring Boot & REST APIs** |
+| ⚛️ | **React & Full Stack** |
+| 🚀 | **Projects & Internship Preparation** |
+
+</div>
 
 <br>
 
 <p align="center">
-  <b>🔥 Learn → Build → Solve → Improve → Repeat</b>
+  <b>⬅️ Less Contributions</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  🟩 🟩 🟢 💚 💚✨
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>More Contributions ➡️</b>
+</p>
+
+<br>
+
+<p align="center">
+  <i>“Small commits. Better skills. Bigger dreams.”</i> 🚀
 </p>
 
 ---

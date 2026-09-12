@@ -131,9 +131,7 @@ https://github.com/devanmanigoli/DSA-java
 
 <div align="center">
 
-## 🏆 `ACHIEVEMENT UNLOCKED`
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=devanmanigoli&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=12&column=7)](https://github.com/devanmanigoli)
 
 </div>
 <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
@@ -205,36 +203,7 @@ https://github.com/devanmanigoli/DSA-java
 
 ---
 
-# 📈 My Developer Journey
 
-```text
-             2026
-               │
-               ▼
-        ┌───────────────┐
-        │   Learn Java  │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │   Master DSA  │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ Build Projects│
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │   Internship  │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ Software Dev  │
-        └───────────────┘
-```
 
 ---
 

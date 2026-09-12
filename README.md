@@ -135,48 +135,41 @@ https://github.com/devanmanigoli/DSA-java
 <h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <i>Every contribution is a step forward.</i>
+  <i>Watching the contributions turn into a snake — one commit at a time.</i>
 </p>
 
 <br>
 
+<!-- GitHub Contribution Timeline -->
+
 <div align="center">
 
-<table>
-<tr>
-<td width="8%"></td>
-<td align="center"><b>Jan</b></td>
-<td align="center"><b>Feb</b></td>
-<td align="center"><b>Mar</b></td>
-<td align="center"><b>Apr</b></td>
-<td align="center"><b>May</b></td>
-<td align="center"><b>Jun</b></td>
-<td align="center"><b>Jul</b></td>
-<td align="center"><b>Aug</b></td>
-<td align="center"><b>Sep</b></td>
-<td align="center"><b>Oct</b></td>
-<td align="center"><b>Nov</b></td>
-<td align="center"><b>Dec</b></td>
-</tr>
-</table>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=devanmanigoli&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"
+  width="95%"
+/>
 
 </div>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+<br>
+
+<!-- Snake -->
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg"
+  alt="Devanmani GitHub Contribution Snake"
+/>
+
+</div>
+
+<br>
 
 <p align="center">
-  <sub>Less</sub>
-  &nbsp; 🟩 🟩 🟩 🟩 🟩 🟩 &nbsp;
-  <sub>More</sub>
-</p>
-
-<p align="center">
-  <b>🐍 The snake keeps moving as the contributions keep growing.</b>
+  <b>🐍 The snake eats the contributions.</b>
+  <br>
+  <sub>⬜ Less activity &nbsp;&nbsp; 🟩 More activity</sub>
 </p>
 ---
 

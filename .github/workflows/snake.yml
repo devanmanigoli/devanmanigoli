@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate GitHub Contribution Snake
 
 on:
   schedule:

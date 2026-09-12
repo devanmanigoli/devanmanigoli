@@ -118,9 +118,7 @@ https://github.com/devanmanigoli/DSA-java
 
 <div align="center">
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
 ## 🔥 GitHub Streak
 

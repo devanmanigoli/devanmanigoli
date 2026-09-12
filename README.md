@@ -134,10 +134,49 @@ https://github.com/devanmanigoli/DSA-java
 
 ---
 
-<h2 align="center">🐍 Contribution Activity</h2>
+<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg" />
+  <i>One commit at a time. One problem at a time. One step closer.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+<br>
+
+<div align="center">
+
+### 📊 2026 • Coding Activity
+
+| 🗓️ Period | 🎯 Focus |
+|:---:|:---:|
+| **2026** | DSA • Java • Projects |
+| **Current** | Consistency & Problem Solving |
+| **Goal** | Internship Ready 🚀 |
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🟩%20CONTRIBUTIONS-TRACKING-00d9ff?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/🐍%20SNAKE-EATING%20MY%20COMMITS-a855f7?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+  <sub>
+    📈 Contribution graph • 📅 Last 12 months • 🚀 Continuous learning
+  </sub>
 </p>
 
 > 🐍 Every contribution represents another step in my development journey.

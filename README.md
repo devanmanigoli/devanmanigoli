@@ -129,11 +129,10 @@ https://github.com/devanmanigoli/DSA-java
 
 </div>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devanmanigoli&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=devanmanigoli&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=12&column=7"
+  alt="Devanmani GitHub Achievements"
+/>
 <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">

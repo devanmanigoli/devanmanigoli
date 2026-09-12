@@ -112,16 +112,45 @@ https://github.com/devanmanigoli/DSA-java
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanmanigoli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanmanigoli&theme=tokyonight&hide_border=true" height="180"/>
+<div align="center">
+
+# ⚡ `GITHUB // DEVELOPER ANALYTICS`
+
+<p>
+  <i>Real activity. Real progress. No shortcuts.</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanmanigoli&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=devanmanigoli&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=00D9FF&custom_title=DEVANMANI%20%7C%20SYSTEM%20STATUS&show=reviews,prs_merged&border_radius=15" width="495"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanmanigoli&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&custom_title=CODE%20DNA&border_radius=15" width="360"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 🧠 `CODE DNA`
+
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║       ☕ JAVA          →  CORE WEAPON              ║
+║       🧠 DSA          →  LOGIC ENGINE              ║
+║       🌱 SPRING BOOT  →  BACKEND                  ║
+║       ⚛️ REACT        →  FRONTEND                 ║
+║       🗄️ MYSQL        →  DATA                     ║
+║       🐙 GITHUB       →  PROGRESS LOG             ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 
 ---
 

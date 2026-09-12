@@ -116,43 +116,17 @@ https://github.com/devanmanigoli/DSA-java
 
 <div align="center">
 
-# ⚡ `GITHUB // DEVELOPER ANALYTICS`
+<div align="center">
 
-<p>
-  <i>Real activity. Real progress. No shortcuts.</i>
-</p>
+## 📊 GitHub Analytics
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=devanmanigoli&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=00D9FF&custom_title=DEVANMANI%20%7C%20SYSTEM%20STATUS&show=reviews,prs_merged&border_radius=15" width="495"/>
+<img src="YOUR_ACTIVITY_CARD_HERE">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanmanigoli&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&custom_title=CODE%20DNA&border_radius=15" width="360"/>
+<img src="YOUR_CONTRIBUTION_GRAPH_HERE">
 
 </div>
-
-<br>
-
----
-
-<div align="center">
-
-### 🧠 `CODE DNA`
-
-```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║       ☕ JAVA          →  CORE WEAPON              ║
-║       🧠 DSA          →  LOGIC ENGINE              ║
-║       🌱 SPRING BOOT  →  BACKEND                  ║
-║       ⚛️ REACT        →  FRONTEND                 ║
-║       🗄️ MYSQL        →  DATA                     ║
-║       🐙 GITHUB       →  PROGRESS LOG             ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-
----
 
 
 <h2 align="center">🏆 GitHub Achievements</h2>

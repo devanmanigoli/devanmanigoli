@@ -1,29 +1,123 @@
 <h1 align="center">Hi 👋, I'm Devanmani Goli</h1>
+
 <h3 align="center">Computer Science Engineering Student | Java Developer | DSA Enthusiast | Aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanmanigoli&label=Profile%20views&color=0e75b6&style=flat" alt="devanmanigoli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanmanigoli" alt="devanmanigoli" /></a> </p>
-
-- 🔭 I’m currently working on **Building full-stack projects with Java, Spring Boot, React, and MySQL while strengthening my DSA skills and maintaining my GitHub portfolio.**
-
-- 🌱 I’m currently learning **Data Structures & Algorithms (Java) | Spring Boot | REST APIs | React | Git & GitHub**
-
-- 👯 I’m looking to collaborate on **Open-source projects, beginner-friendly Java/Spring Boot projects, and practical full-stack applications that help me learn and grow as a developer.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devanmanigoli](https://github.com/devanmanigoli)
-
-- 📫 How to reach me **devanmanigoli@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/devanmanigoli">
+    <img src="https://komarev.com/ghpvc/?username=devanmanigoli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanmanigoli&show_icons=true&locale=en&layout=compact" alt="devanmanigoli" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanmanigoli&show_icons=true&locale=en" alt="devanmanigoli" /></p>
+* 🎓 Computer Science Engineering student at **JNTUH**
+* 💻 Currently focusing on **Java and Data Structures & Algorithms**
+* 🚀 Building projects using **Spring Boot, REST APIs, React, and MySQL**
+* 🧠 Practicing problem-solving through **DSA**
+* 🌱 Continuously improving my software development and problem-solving skills
+* 🤝 Open to collaborating on **Java, Spring Boot, and full-stack projects**
+* 🎯 Currently looking for **software development internship opportunities**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanmanigoli&" alt="devanmanigoli" /></p>
+---
+
+## 🔭 What I'm Working On
+
+* 📚 Strengthening **Data Structures & Algorithms using Java**
+* ⚙️ Building backend applications with **Spring Boot & REST APIs**
+* 🌐 Developing full-stack applications with **React**
+* 🗄️ Working with **MySQL and database-driven applications**
+* 🚀 Building and improving projects for my **GitHub portfolio**
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Decision Ledger
+
+A full-stack application focused on recording, organizing, and analyzing decisions.
+
+**Tech Stack:** React | Spring Boot | REST API | MySQL
+
+### 💊 Pharmacy Management System
+
+A project focused on managing medicines, inventory, and pharmacy-related information.
+
+**Tech Stack:** Java | Spring Boot | MySQL
+
+### 🧩 DSA Practice
+
+My ongoing journey of solving **Data Structures & Algorithms problems using Java**, with solutions organized by topic.
+
+**Topics:** Recursion | Arrays | Strings | Sorting | Linked Lists | Trees | Graphs
+
+👉 Explore all my projects and practice:
+**https://github.com/devanmanigoli**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanmanigoli&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanmanigoli&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanmanigoli" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devanmanigoli&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:devanmanigoli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/devanmanigoli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex problems into simple solutions and challenging myself with DSA problems every day.
+
+---
+
+<p align="center">
+  <b>🚀 Learning. Building. Solving. Growing.</b>
+</p>

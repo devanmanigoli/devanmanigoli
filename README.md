@@ -145,13 +145,83 @@ https://github.com/devanmanigoli/DSA-java
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    alt="Devanmani GitHub Contribution Snake"
   />
 </p>
 
 <br>
 
+<!-- Contribution Timeline -->
+
+<table align="center">
+  <tr>
+    <td align="center"><b>SEP</b></td>
+    <td align="center"><b>OCT</b></td>
+    <td align="center"><b>NOV</b></td>
+    <td align="center"><b>DEC</b></td>
+    <td align="center"><b>JAN</b></td>
+    <td align="center"><b>FEB</b></td>
+    <td align="center"><b>MAR</b></td>
+    <td align="center"><b>APR</b></td>
+    <td align="center"><b>MAY</b></td>
+    <td align="center"><b>JUN</b></td>
+    <td align="center"><b>JUL</b></td>
+    <td align="center"><b>AUG</b></td>
+  </tr>
+
+  <tr>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+    <td>🟩</td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>📅 12-Month Coding Timeline</b>
+</p>
+
+<p align="center">
+  <sub>
+    🟩 Low Activity &nbsp;&nbsp; • &nbsp;&nbsp;
+    🟩 Growing Consistency &nbsp;&nbsp; • &nbsp;&nbsp;
+    🟩 High Activity
+  </sub>
+</p>
+
+<br>
+
 <div align="center">
+
+### 📊 2026 • Coding Activity
+
+| 🗓️ Period | 🎯 Focus |
+|:---:|:---:|
+| **SEP → DEC** | DSA • Java • Problem Solving |
+| **JAN → APR** | Spring Boot • Projects • GitHub |
+| **MAY → AUG** | Full-Stack • Open Source • Internship |
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/2026-CODING%20JOURNEY-00d9ff?style=for-the-badge&logo=github&logoColor=white" />
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/CONSISTENCY-OVER%20PERFECTION-a855f7?style=for-the-badge&logo=target&logoColor=white" />
+
+</p>
 
 ### 📊 2026 • Coding Activity
 

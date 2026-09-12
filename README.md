@@ -126,19 +126,18 @@ https://github.com/devanmanigoli/DSA-java
 ---
 
 
-
-## 🏆 GitHub Achievements
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake.svg">
+  <img src="https://github-profile-trophy.vercel.app/?username=devanmanigoli&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
 ---
 
-# 🐍 My Contribution Journey
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/devanmanigoli/devanmanigoli/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > 🐍 Every contribution represents another step in my development journey.

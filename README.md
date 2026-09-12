@@ -132,13 +132,35 @@ https://github.com/devanmanigoli/DSA-java
   <img src="https://github-profile-trophy.vercel.app/?username=devanmanigoli&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
-<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
+<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <i>Feeding the snake with code, one contribution at a time...</i>
+  <i>Every contribution is a step forward.</i>
 </p>
 
 <br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="8%"></td>
+<td align="center"><b>Jan</b></td>
+<td align="center"><b>Feb</b></td>
+<td align="center"><b>Mar</b></td>
+<td align="center"><b>Apr</b></td>
+<td align="center"><b>May</b></td>
+<td align="center"><b>Jun</b></td>
+<td align="center"><b>Jul</b></td>
+<td align="center"><b>Aug</b></td>
+<td align="center"><b>Sep</b></td>
+<td align="center"><b>Oct</b></td>
+<td align="center"><b>Nov</b></td>
+<td align="center"><b>Dec</b></td>
+</tr>
+</table>
+
+</div>
 
 <p align="center">
   <img
@@ -148,57 +170,14 @@ https://github.com/devanmanigoli/DSA-java
 </p>
 
 <p align="center">
-  <b>🐍 Feed the Snake • Keep Coding • Keep Growing 🚀</b>
+  <sub>Less</sub>
+  &nbsp; 🟩 🟩 🟩 🟩 🟩 🟩 &nbsp;
+  <sub>More</sub>
 </p>
-
-<br>
-
-<div align="center">
-
-### 📊 Contribution Intensity
-
-<table>
-<tr>
-<td align="center">⬛<br><sub>No Activity</sub></td>
-<td align="center">🟩<br><sub>Low</sub></td>
-<td align="center">🟢<br><sub>Medium</sub></td>
-<td align="center">💚<br><sub>High</sub></td>
-<td align="center">💚✨<br><sub>Very High</sub></td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 📅 | 🎯 Focus |
-|:---:|:---|
-| 🧠 | **DSA & Problem Solving** |
-| ☕ | **Java Development** |
-| ⚙️ | **Spring Boot & REST APIs** |
-| ⚛️ | **React & Full Stack** |
-| 🚀 | **Projects & Internship Preparation** |
-
-</div>
-
-<br>
 
 <p align="center">
-  <b>⬅️ Less Contributions</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  🟩 🟩 🟢 💚 💚✨
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>More Contributions ➡️</b>
+  <b>🐍 The snake keeps moving as the contributions keep growing.</b>
 </p>
-
-<br>
-
-<p align="center">
-  <i>“Small commits. Better skills. Bigger dreams.”</i> 🚀
-</p>
-
 ---
 
 # 📈 My Developer Journey

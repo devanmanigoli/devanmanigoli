@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Devanmani%20Goli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Java%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </p>
-
+<p></p>
 <h1 align="center">Hi 👋, I'm Devanmani Goli</h1>
 
 <p align="center">
